@@ -1,11 +1,42 @@
-- 👋 Hi, I’m @DeepakGupta
-- 👀 I’m interested in creating & exploring new things.
-- 🌱 I’m currently pursuing B.Tech From SAM GLOBAL UNIVERSITY BHOPAL
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me dkguptak9369@gmail.com
+# 👋 Hi, I'm Deepak Gupta
 
+💻 **Full Stack Software Developer** passionate about building modern, scalable and user-friendly **websites & mobile applications**.
 
-<!---
-DeepakGupta4/DeepakGupta4 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* 🔭 Currently working as a **Full Stack Developer**
+* ⚛️ Experienced with **React, React Native, Node.js, Express.js & MongoDB**
+* 📱 Building cross-platform mobile applications with **React Native & Expo**
+* 🌐 Building modern web applications with **React, TypeScript & Tailwind CSS**
+* 🚀 Interested in creating products, exploring new technologies and solving real-world problems
+* 💼 Also working on my own **digital agency & software projects**
+* 🤝 Open to collaborating on interesting software projects
+* 📫 Reach me at **[dkguptak9369@gmail.com](mailto:dkguptak9369@gmail.com)**
+
+### 🛠️ Tech Stack
+
+**Frontend:** React.js, React Native, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+
+**Backend:** Node.js, Express.js, REST APIs
+
+**Database:** MongoDB, Firebase, Supabase
+
+**Tools:** Git, GitHub, Expo, EAS, Vite
+
+### 🚀 What I Build
+
+* 🌐 Business & SaaS Websites
+* 📱 Android & iOS Mobile Applications
+* 🛒 E-commerce Applications
+* 🐾 Pet-care & Service Platforms
+* 🤖 AI-powered Applications
+* 📊 Admin Dashboards & Backend Systems
+
+### 📌 Featured Projects
+
+* **Vetician** — Pet-care platform with consumer & provider applications
+* **Doggos Heaven** — Pet resort mobile application & platform
+* **VR Chai Cafe** — Cafe ordering & management application
+* **Agentic Astro** — AI-powered astrology web application
+
+---
+
+⭐ **Feel free to explore my repositories and connect with me!**
