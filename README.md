@@ -34,7 +34,6 @@
 
 * **Vetician** — Pet-care platform with consumer & provider applications
 * **Doggos Heaven** — Pet resort mobile application & platform
-* **VR Chai Cafe** — Cafe ordering & management application
 * **Agentic Astro** — AI-powered astrology web application
 
 ---
