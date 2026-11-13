@@ -11,7 +11,7 @@
 * 🤝 Open to collaborating on interesting software projects 
 * 📫 Reach me at **[dkguptak9369@gmail.com](mailto:dkguptak9369@gmail.com)**
   
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
  
 **Frontend:** React.js, React Native, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
    
