@@ -28,7 +28,7 @@
 * 🛒 E-commerce Applications
 * 🐾 Pet-care & Service Platforms
 * 🤖 AI-powered Applications 
-* 📊 Admin Dashboards & Backend Systems
+* 📊 Admin Dashboards & Backend Systems 
 
 ### 📌 Featured Projects
 
