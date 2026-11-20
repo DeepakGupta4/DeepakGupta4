@@ -24,7 +24,7 @@
 ### 🚀 What I Build 
  
 * 🌐 Business & SaaS Websites 
-* 📱 Android & iOS Mobile Applications
+* 📱 Android & iOS Mobile Applications 
 * 🛒 E-commerce Applications
 * 🐾 Pet-care & Service Platforms
 * 🤖 AI-powered Applications 
