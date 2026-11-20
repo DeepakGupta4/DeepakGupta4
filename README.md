@@ -27,7 +27,7 @@
 * 📱 Android & iOS Mobile Applications
 * 🛒 E-commerce Applications
 * 🐾 Pet-care & Service Platforms
-* 🤖 AI-powered Applications
+* 🤖 AI-powered Applications 
 * 📊 Admin Dashboards & Backend Systems
 
 ### 📌 Featured Projects
