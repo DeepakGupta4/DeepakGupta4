@@ -7,7 +7,7 @@
 * 📱 Building cross-platform mobile applications with **React Native & Expo**
 * 🌐 Building modern web applications with **React, TypeScript & Tailwind CSS**
 * 🚀 Interested in creating products, exploring new technologies and solving real-world problems
-* 💼 Also working on my own **digital agency & software projects**
+* 💼 Also working on my own **digital agency & software projects** 
 * 🤝 Open to collaborating on interesting software projects 
 * 📫 Reach me at **[dkguptak9369@gmail.com](mailto:dkguptak9369@gmail.com)**  
   
