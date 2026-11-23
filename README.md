@@ -30,7 +30,7 @@
 * 🤖 AI-powered Applications 
 * 📊 Admin Dashboards & Backend Systems 
 
-### 📌 Featured Projects
+### 📌 Featured Projects 
 
 * **Vetician** — Pet-care platform with consumer & provider applications
 * **Doggos Heaven** — Pet resort mobile application & platform
