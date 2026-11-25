@@ -15,7 +15,7 @@
  
 **Frontend:** React.js, React Native, JavaScript, TypeScript, HTML, CSS, Tailwind CSS   
 
-**Backend:** Node.js, Express.js, REST APIs 
+**Backend:** Node.js, Express.js, REST APIs  
   
 **Database:** MongoDB, Firebase, Supabase 
 
