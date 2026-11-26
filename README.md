@@ -2,7 +2,7 @@
  
 💻 **Full Stack Software Developer** passionate about building modern, scalable and user-friendly **websites & mobile applications**.
  
-* 🔭 Currently working as a **Full Stack Developer** 
+* 🔭 Currently working as a **Full Stack Developer**
 * ⚛️ Experienced with **React, React Native, Node.js, Express.js & MongoDB** 
 * 📱 Building cross-platform mobile applications with **React Native & Expo** 
 * 🌐 Building modern web applications with **React, TypeScript & Tailwind CSS** 
