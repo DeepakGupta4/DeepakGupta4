@@ -17,7 +17,7 @@
 
 **Backend:** Node.js, Express.js, REST APIs
   
-**Database:** MongoDB, Firebase, Supabase  
+**Database:** MongoDB, Firebase, Supabase
 
 **Tools:** Git, GitHub, Expo, EAS, Vite
  
