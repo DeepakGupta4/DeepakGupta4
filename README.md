@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Deepak Gupta 
+# 👋 Hi, I'm Deepak Gupta
  
 💻 **Full Stack Software Developer** passionate about building modern, scalable and user-friendly **websites & mobile applications**.
  
